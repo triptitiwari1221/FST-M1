@@ -1,0 +1,3 @@
+[pytest]
+markers = 
+    activity: mark a test as part of the activity group.
